@@ -1,2 +1,1 @@
-# CWA
-Cvičení z webových aplikací
+# PRÁCE V PŘEDMĚTU
