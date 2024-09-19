@@ -2,5 +2,5 @@
 
 def animals(n):
 	for n in range(n):
-    	print("ovce")
+    		print("ovce")
 	print("pes")
