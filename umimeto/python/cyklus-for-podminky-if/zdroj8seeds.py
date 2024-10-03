@@ -6,7 +6,7 @@ def beans(x, y, n):
         print(x, y)
         
         if x > y:
-			y *= 2
+	    y *= 2
             x -= 1
         elif x < y:
             y -= 1
