@@ -4,8 +4,8 @@ def powers(n, a, b):
     power = 0
     integer = n ** power
     while b >= integer:
-		  if a <= integer <= b:
-        print(integer)
+	if a <= integer <= b:
+        	print(integer)
 
-      power += 1
-      integer = n ** power
+	power += 1
+	integer = n ** power
