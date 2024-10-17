@@ -2,7 +2,7 @@
 #Výpis pište bez háčků a čárek, viz ukázkový výstup.
 
 def person_info(name, height, money):
-	maly = "je maly"
+    maly = "je maly"
     velky = "je velky"
     chudy = "a chudy."
     bohaty = "a bohaty."
