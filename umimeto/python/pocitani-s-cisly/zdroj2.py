@@ -4,5 +4,5 @@ def divisors(n):
     div = 0
     while div <= n:
         div += 1
-    if n % div == 0:
-        print(div)
+        if n % div == 0:
+            print(div)
