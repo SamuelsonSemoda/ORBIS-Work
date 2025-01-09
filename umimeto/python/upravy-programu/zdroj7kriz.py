@@ -6,7 +6,7 @@ def cross(n):
             centerfillhor = n <= i <= n+n-1
             centerfillver = n <= j <= n+n-1
             if i == n or j == n or centerfillhor or centerfillver:
-            	  print("#", end="")
+                print("#", end="")
             else:
                 print(".", end="")
         print()
