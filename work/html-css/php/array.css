@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+.numbers, .names {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 45%;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #4CAF50;
+    margin-bottom: 15px;
+}
+
+/* Styling for individual number and name items */
+.number, .name {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    background-color: #e1e1e1;
+    transition: background-color 0.3s ease;
+}
+
+.number:hover, .name:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+}
