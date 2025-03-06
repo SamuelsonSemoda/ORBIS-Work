@@ -58,6 +58,5 @@ class StudentTableApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.iconbitmap("/path/to/icon.ico")
     app = StudentTableApp(root)
     root.mainloop()
