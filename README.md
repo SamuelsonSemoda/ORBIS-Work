@@ -1,2 +1,2 @@
-# CWA
-Cvičení z webových aplikací
+# DMA
+Vývoj desktopových a mobilních aplikací
