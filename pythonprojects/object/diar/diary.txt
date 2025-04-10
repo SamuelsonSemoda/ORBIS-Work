@@ -1,0 +1,6 @@
+[
+  {
+    "nadpis": "Ahoj",
+    "text": "Takže takhle to teď bude"
+  }
+]
