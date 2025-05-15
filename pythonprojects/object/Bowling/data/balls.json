@@ -1,0 +1,52 @@
+[
+  {
+    "model": "Storm Phaze II",
+    "price": 4500,
+    "type": "Reactive",
+    "company": "Storm",
+    "weight": 15,
+    "core": "Velocity Core",
+    "image": "phaze2.jpg",
+    "pba_player": "Jason Belmonte"
+  },
+  {
+    "model": "Hammer Black Widow 2.0",
+    "price": 4200,
+    "type": "Reactive",
+    "company": "Hammer",
+    "weight": 15,
+    "core": "Gas Mask Core",
+    "image": "blackwidow2.jpg",
+    "pba_player": "Tommy Jones"
+  },
+  {
+    "model": "Brunswick Rhino",
+    "price": 2500,
+    "type": "Urethane",
+    "company": "Brunswick",
+    "weight": 14,
+    "core": "Light Bulb Core",
+    "image": "rhino.jpg",
+    "pba_player": "Walter Ray Williams Jr."
+  },
+  {
+    "model": "Roto Grip Idol Helios",
+    "price": 4600,
+    "type": "Reactive",
+    "company": "Roto Grip",
+    "weight": 15,
+    "core": "Ikon Core",
+    "image": "idolhelios.jpg",
+    "pba_player": "Anthony Simonsen"
+  },
+  {
+    "model": "Motiv Venom Shock",
+    "price": 4000,
+    "type": "Reactive",
+    "company": "Motiv",
+    "weight": 15,
+    "core": "Gear Core",
+    "image": "venomshock.jpg",
+    "pba_player": "EJ Tackett"
+  }
+]
